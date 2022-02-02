@@ -2,7 +2,7 @@
 
 ### [Live Site](https://geeklord-tazheeb.github.io/postman-plus/)
 
-![](img/postman+.png)
+![](img/logo.png)
 
 # P O S T M A N +
 What is Postman+? <br/>
